@@ -2,51 +2,85 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Perla%20Daniela%20Muñoz%20Trujillo&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
 # 👋 hey, i'm perla
 
-### software engineering student & full stack developer from mexico 🇲🇽
+software engineering student from mexico 🇲🇽
 
-💻 building web applications and management systems
+💻 building full stack web applications
 
-⚛️ loving react, vite, javascript, node.js and mongodb
+🏗️ creating sales, inventory and educational management systems
 
-📚 currently learning software architecture, docker and scalable systems
+📚 currently learning software architecture and scalable systems
 
 🧠 english B1
 
 🏅 scrum fundamentals certified
 
-</div>
+☕ powered by coffee and deadlines
+
+</td>
+
+<td width="45%" valign="top">
+
+### ⚡ stack
+
+**frontend**
+
+react • vite • javascript • tailwind
+
+**backend**
+
+node.js • express • php
+
+**database**
+
+mongodb • sql • sql server
+
+**tools**
+
+git • docker • postman • figma
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 current stack
+## 🚀 featured projects
 
-```txt
-Frontend  → React • Vite • JavaScript • Tailwind CSS
-Backend   → Node.js • Express • PHP
-Database  → MongoDB • SQL • SQL Server
-Tools     → Git • Docker • Postman • Figma
-```
+🛒 **sales management system**
 
+📦 **inventory management platform**
 
-### 🌐 connect with me
+🏫 **university school system**
 
-💼 LinkedIn → https://linkedin.com/in/your-profile
+🖥️ **business web applications**
 
-🐙 GitHub → https://github.com/Scaramoucheemo
+---
 
-📧 Email → mailto:trujillodaniela873@gmail.com
+## 🌐 connect with me
 
-📷 Instagram → https://instagram.com/your-user
+💼 linkedin → your-linkedin
+
+🐙 github → https://github.com/Scaramoucheemo
+
+📧 email → [trujillodaniela873@gmail.com](mailto:trujillodaniela873@gmail.com)
+
+📷 instagram → your-instagram
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scaramoucheemo\&show_icons=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Scaramoucheemo&show_icons=true&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scaramoucheemo\&layout=compact)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scaramoucheemo&layout=compact&hide_border=true"/>
 
 </div>
 
