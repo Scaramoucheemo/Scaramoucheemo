@@ -18,6 +18,6 @@ Server Tools → Git • Docker • Postman • Figma
 <br>
 ### 🌐 connect
 <a href="mailto:trujillodaniela873@gmail.com">📧 email</a> |
-<a href="https://linkedin.com/in/daniela-trujillo">💼 linkedin</a> |
+<a href="https://linkedin.com/in/daniela-trujillo-71b4182bb">💼 linkedin</a> |
 <a href="https://github.com/Scaramoucheemo">🐙 github</a> |
 <a href="https://instagram.com/yun0h__">📷 instagram</a>
