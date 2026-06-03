@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./banner.jpg" width="100%" />
+  <img src="./banner.jpg" alt="Banner" height="180" />
 </p>
-
 # 👋 hey, i'm dani
 
 ingeniera en desarrollo y gestión de software de méxico 🇲🇽
