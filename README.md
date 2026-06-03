@@ -5,14 +5,9 @@
 
 Ingeniera en desarrollo y gestión de software de méxico 🇲🇽
 
-💻 building full stack web applications
-
-⚛️ loving react, vite, javascript, node.js and mongodb
-
+💻 building modern web applications
 🏗️ creating sales, inventory and educational management systems
-
-📚 currently learning software architecture and scalable systems
-
+🌱 learning something new every day
 🧠 english B1
 ### ⚡ stack
 react • vite • javascript • tailwind • node.js • express • mongodb • sql • docker
