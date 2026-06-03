@@ -3,7 +3,7 @@
 </p>
 # 👋 hey, i'm dani
 
-ingeniera en desarrollo y gestión de software de méxico 🇲🇽
+Ingeniera en desarrollo y gestión de software de méxico 🇲🇽
 
 💻 building full stack web applications
 
