@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 hey, i'm perla
 
-<!--
-**Scaramoucheemo/Scaramoucheemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+software engineering student from mexico 🇲🇽
 
-Here are some ideas to get you started:
+💻 building full stack web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚛️ loving react, vite, javascript and node.js
+
+🗄️ working with sql, sql server and mongodb
+
+🏗️ creating inventory, sales and educational management systems
+
+📚 currently learning software architecture and docker
+
+🧠 english B1
+
+🏅 scrum fundamentals certified
+
+☕ powered by coffee and deadlines
+
+🏡 portfolio | 💼 linkedin | 📧 email | 🐙 github
