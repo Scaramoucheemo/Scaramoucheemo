@@ -2,9 +2,9 @@
   <img src="./banner.jpg" width="100%" />
 </p>
 
-# 👋 hey, i'm perla
+# 👋 hey, i'm dani
 
-software engineering student from mexico 🇲🇽
+ingeniera en desarrollo y gestión de software de méxico 🇲🇽
 
 💻 building full stack web applications
 
