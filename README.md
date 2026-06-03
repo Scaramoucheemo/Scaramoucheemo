@@ -15,20 +15,12 @@ ingeniera en desarrollo y gestión de software de méxico 🇲🇽
 📚 currently learning software architecture and scalable systems
 
 🧠 english B1
-<br>
-
 ### 🌐 connect
 
 <a href="mailto:trujillodaniela873@gmail.com">📧 email</a> |
 <a href="https://linkedin.com/in/daniela-trujillo">💼 linkedin</a> |
 <a href="https://github.com/Scaramoucheemo">🐙 github</a> |
 <a href="https://instagram.com/yun0h__">📷 instagram</a>
-
-<br>
-
 ### ⚡ stack
 
 react • vite • javascript • tailwind • node.js • express • mongodb • sql • docker
-
-<br>
-
