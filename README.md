@@ -1,16 +1,16 @@
-<div align="center">
+<!-- Reemplaza banner.png por tu imagen -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Perla%20Daniela%20Muñoz%20Trujillo&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-</div>
-
-<td width="55%" valign="top">
+<p align="center">
+  <img src="./banner.png" alt="" width="100%">
+</p>
 
 # 👋 hey, i'm perla
 
 software engineering student from mexico 🇲🇽
 
 💻 building full stack web applications
+
+⚛️ loving react, vite, javascript, node.js and mongodb
 
 🏗️ creating sales, inventory and educational management systems
 
@@ -19,44 +19,24 @@ software engineering student from mexico 🇲🇽
 🧠 english B1
 
 🏅 scrum fundamentals certified
-
-☕ powered by coffee and deadlines
-
-</td>
-
-<td width="45%" valign="top">
-
 ### ⚡ stack
 
-**frontend**
+```txt
+frontend  → react • vite • javascript • tailwind css
 
-react • vite • javascript • tailwind
+backend   → node.js • express • php
 
-**backend**
+database  → mongodb • sql • sql server
 
-node.js • express • php
+tools     → git • docker • postman • figma
+### 🌐 connect
 
-**database**
-
-mongodb • sql • sql server
-
-**tools**
-
-git • docker • postman • figma
-
-</tr>
-
----
-## 🌐 connect with me
-
-💼 linkedin → https://www.linkedin.com/in/daniela-trujillo-71b4182bb/?skipRedirect=true
-
-🐙 github → https://github.com/Scaramoucheemo
-
-📧 email → [trujillodaniela873@gmail.com](mailto:trujillodaniela873@gmail.com)
-
-📷 instagram → https://www.instagram.com/yun0h__/
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
-
+[📧 Email](mailto:trujillodaniela873@gmail.com) •
+[💼 LinkedIn](https://linkedin.com/in/Daniela Trujillo) •
+[🐙 GitHub](https://github.com/Scaramoucheemo) •
+[📷 Instagram](https://instagram.com/yun0h__)
+### 📊 github stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Scaramoucheemo&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scaramoucheemo&layout=compact&hide_border=true" />
+</p>
