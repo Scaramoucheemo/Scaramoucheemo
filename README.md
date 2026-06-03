@@ -9,11 +9,13 @@ Ingeniera en desarrollo y gestión de software de méxico 🇲🇽
 🏗️ creating sales, inventory and educational management systems
 🌱 learning something new every day
 🧠 english B1
+<br>
 ### ⚡ stack
 Frontend → React • Vite • JavaScript • Tailwind CSS 
 Backend → Node.js • Express • PHP 
 Database → MongoDB • SQL • SQL 
 Server Tools → Git • Docker • Postman • Figma
+<br>
 ### 🌐 connect
 <a href="mailto:trujillodaniela873@gmail.com">📧 email</a> |
 <a href="https://linkedin.com/in/daniela-trujillo">💼 linkedin</a> |
