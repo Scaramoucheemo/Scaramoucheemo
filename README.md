@@ -51,28 +51,15 @@ git • docker • postman • figma
 </table>
 
 ---
-
-## 🚀 featured projects
-
-🛒 **sales management system**
-
-📦 **inventory management platform**
-
-🏫 **university school system**
-
-🖥️ **business web applications**
-
----
-
 ## 🌐 connect with me
 
-💼 linkedin → your-linkedin
+💼 linkedin → https://www.linkedin.com/in/daniela-trujillo-71b4182bb/?skipRedirect=true
 
 🐙 github → https://github.com/Scaramoucheemo
 
 📧 email → [trujillodaniela873@gmail.com](mailto:trujillodaniela873@gmail.com)
 
-📷 instagram → your-instagram
+📷 instagram → https://www.instagram.com/yun0h__/
 
 ---
 
