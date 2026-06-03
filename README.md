@@ -4,8 +4,6 @@
 
 </div>
 
-<table>
-<tr>
 <td width="55%" valign="top">
 
 # 👋 hey, i'm perla
@@ -46,9 +44,7 @@ mongodb • sql • sql server
 
 git • docker • postman • figma
 
-</td>
 </tr>
-</table>
 
 ---
 ## 🌐 connect with me
@@ -61,15 +57,6 @@ git • docker • postman • figma
 
 📷 instagram → https://www.instagram.com/yun0h__/
 
----
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Scaramoucheemo&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scaramoucheemo&layout=compact&hide_border=true"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 
