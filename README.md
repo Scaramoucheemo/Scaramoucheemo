@@ -1,7 +1,7 @@
 <!-- Reemplaza banner.png por tu imagen -->
 
 <p align="center">
-  <img src="./banner.png" alt="" width="100%">
+  <img src="./banner.jpg" alt="" width="100%">
 </p>
 
 # 👋 hey, i'm perla
