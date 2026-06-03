@@ -1,7 +1,5 @@
-<!-- Reemplaza banner.png por tu imagen -->
-
 <p align="center">
-  <img src="./banner.jpg" alt="" width="100%">
+  <img src="./banner.jpg" width="100%" />
 </p>
 
 # 👋 hey, i'm perla
@@ -17,26 +15,23 @@ software engineering student from mexico 🇲🇽
 📚 currently learning software architecture and scalable systems
 
 🧠 english B1
+<br>
 
-🏅 scrum fundamentals certified
-### ⚡ stack
-
-```txt
-frontend  → react • vite • javascript • tailwind css
-
-backend   → node.js • express • php
-
-database  → mongodb • sql • sql server
-
-tools     → git • docker • postman • figma
 ### 🌐 connect
 
-[📧 Email](mailto:trujillodaniela873@gmail.com) •
-[💼 LinkedIn](https://linkedin.com/in/Daniela Trujillo) •
-[🐙 GitHub](https://github.com/Scaramoucheemo) •
-[📷 Instagram](https://instagram.com/yun0h__)
-### 📊 github stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Scaramoucheemo&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scaramoucheemo&layout=compact&hide_border=true" />
-</p>
+<a href="mailto:trujillodaniela873@gmail.com">📧 email</a> |
+<a href="https://linkedin.com/in/daniela-trujillo">💼 linkedin</a> |
+<a href="https://github.com/Scaramoucheemo">🐙 github</a> |
+<a href="https://instagram.com/yun0h__">📷 instagram</a>
+
+<br>
+
+### ⚡ stack
+
+react • vite • javascript • tailwind • node.js • express • mongodb • sql • docker
+
+<br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Scaramoucheemo&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scaramoucheemo&layout=compact&hide_border=true"/>
